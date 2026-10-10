@@ -4,9 +4,6 @@ I’ve built a portfolio of ready-to-sell software products that help companies 
 StripeFlow
 A ready-to-plug Stripe billing backend that lets SaaS companies launch subscriptions and payments without building the infrastructure from scratch.
 
-SCR4K Chrome Screen Recorder
-A production-ready browser screen recording engine, already live with 2,400+ users, that companies can embed, white-label, or turn into a SaaS product.
-
 E-commerce SaaS Starter
 A complete foundation for launching an online store or marketplace platform without spending months building core commerce features.
 
