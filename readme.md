@@ -17,4 +17,4 @@ DataPipe
 A full data-pipeline and workflow automation platform that agencies can use or resell to deliver data services faster.
 
 
-This is a ready-to-acquire portfolio of six production-ready software frameworks that help companies skip months of engineering and immediately launch new products or expand their roadmap.
+This is a ready-to-acquire portfolio of five production-ready software frameworks that help companies skip months of engineering and immediately launch new products or expand their roadmap.
